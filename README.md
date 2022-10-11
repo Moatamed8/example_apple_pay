@@ -1,16 +1,19 @@
-# riverpod_example
+# Apple Pay Example
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+To use this project :
+    1 - go to app store connect and create merchantId
+    2 - add apple pay in xcode
+    
 
-A few resources to get you started if this is your first Flutter project:
+    3- open assets/files/apple_pay.json and add merchant Id in merchantIdentifier
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run and Enjoy  😘  😘  😘
+![Screenshot](1.png)
+![Screenshot](2.png)
+![Screenshot](3.png)
+![Screenshot](4.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+

@@ -1,4 +1,4 @@
-package com.example.riverpod_example
+package com.moatamed.applepay
 
 import io.flutter.embedding.android.FlutterActivity
 
